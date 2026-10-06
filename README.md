@@ -1,6 +1,6 @@
 # About this Repository 📌
 
-This repository contains my progress through the **30 Days of Python** challenge. Over 30 days, I worked through Python fundamentals and moved on to data analysis, web scraping, databases and APIs, with exercises for each day's topic.
+This repository contains my progress through the 30 Days of Python challenge. Over 30 days, I worked through Python fundamentals and moved on to data analysis, web scraping, databases and APIs, with exercises for each day's topic.
 
 
 # Key Takeaways 🔍
